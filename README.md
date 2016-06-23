@@ -4,5 +4,6 @@ First part of an excercise to cover a POC/Pilot process using the SEMAT methodol
 
 Currently, the only valid sections are the Input, Output and Summary. The rest comes from a generic template.
 
-[SEMAT](http://semat.org/home)
-[Alpha states] http://semat.org/alpha-state-cards-with-abbrev-checklists
+[semat.org](http://semat.org/home)
+
+[Alpha states](http://semat.org/alpha-state-cards-with-abbrev-checklists)
