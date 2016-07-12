@@ -57,11 +57,14 @@ Way of Working|0|6
 Team|1|5
 
 ## Summary
-Team mission is clear and the competencies needed are identified.
-- the team has been seeded, its mission is clear
+This activity is the beginning of the project team formation, where the team is finally seeded and the defined resources are requested.
 
 ## Description
-$body$
+This activity is the beginning of the project team formation, where the team is finally seeded and the defined resources are requested. The following tasks need to be done:
+
+* SFDC request: The sales team requests the defined SSA resources.
+* SFDC request approval: The SSA resources are approved and allocated for the job.
+* Customer call: The objective of this call is to request the customer’s side resources for the project. The customer must agree on the allocation of the defined resources before moving to the next activity.
 
 ## Practices
 
