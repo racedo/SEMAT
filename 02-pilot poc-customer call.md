@@ -62,7 +62,14 @@ Customer call to get the stakeholder represented and there is need for our solut
 - the stakeholders are now represented
 
 ## Description
-$body$
+A call is set up in which the Red Hat team is represented, and the customer team.
+The following items will be on the agenda:
+Customer needs are defined in detail.
+Red Hat and customer agree on solution.
+Who is resposible for what?
+What will be the communication lines?
+setting a date for on site meetings.
+
 
 ## Practices
 
