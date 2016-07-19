@@ -67,7 +67,7 @@ Customer meeting to address the following elements :
 - the team that works on the implementation is formed
 
 ## Description
-$body$
+This is a discovery session in which a product specialist and a technical representative of the account team will meet with the customer stakeholders of each area to prepare everything that's needed for a successful PoC. Details of the use cases will be discussed and based on them a success criteria will be defined. This is the opportunity to put every stakeholder on the same page with knowledge of the extent of the engagement, action plan, requirements and success criteria.
 
 ## Practices
 
