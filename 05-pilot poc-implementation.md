@@ -57,14 +57,19 @@ Way of Working|5|6
 Team|4|5
 
 ## Summary
-We perform the implementation of the Pilot PoC to demonstrate :
-- the viability of the opportunity
+We perform the implementation of the Pilot PoC to demonstrate the customer use case and the the viability of the opportunity.
+
+## Description
+This activity can start when all the pre requirements are met to fulfill the defined POC use case. It requires the following ressources:
+- Necessary Hardware and software 
+- Subscriptions and Licenses
+- All the technical stakeholders 
+And it will demonstrate :
 - the work is started and under control
 - the way of working is in use, in place and is working well
 - the team if collaborating and performing
-
-## Description
-$body$
+- the POC goals met
+ 
 
 ## Practices
 
