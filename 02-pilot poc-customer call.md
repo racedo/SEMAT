@@ -62,7 +62,7 @@ Customer call to get the stakeholder represented and there is need for our solut
 - the stakeholders are now represented
 
 ## Description
-$body$
+A meeting with the stakeholders, including a product specialist for the technology in question, will confirm the details and finish the assessment to define the need of a PoC and discuss who are the required stakeholders (e.g. network architect, storage team, infrastructure team, etc.).
 
 ## Practices
 
