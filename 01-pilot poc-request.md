@@ -63,7 +63,7 @@ Informal request from Sales Rep through Email or Call.
 - the requirements are conceived
 
 ## Description
-$body$
+After an account team has identified interest in a product that could be better demonstrated in a PoC, they will contact the specialist and they'll discuss the details. The specialist has to assess the extent of the potential engagement, the initial requirements and wether a PoC is the best approach.
 
 ## Practices
 
