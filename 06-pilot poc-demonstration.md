@@ -69,7 +69,18 @@ Demonstration matches the expectations that we defined in the "design phase" :
 - the work is now concluded
 
 ## Description
-$body$
+With a demonstration of the products to the customer we achieve the following:
+the software system: is up and running, where needed connected to the customer environment, and data has been added with which a demonstration can be given.
+The stakeholders will be present, and some of them are possbly part of the team that host the meeting.
+
+What can be shown in the demonstration is that all the requirements as taken up in the burndown at the beginning of the project have been met.
+Stakeholders present can ask their questions, and provide feedback to make sure all the wishes are met.
+
+Findings are collected, and when all the stakeholders agree we have met all the requirements, the work for the consultants is done.
+
+deliverables: A fully working environment
+documentation as to the set-up and maintanance of the environment
+
 
 ## Practices
 
